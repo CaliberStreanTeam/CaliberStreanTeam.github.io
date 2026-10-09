@@ -4,7 +4,7 @@ FrostByte StreamTeam (FST) — Official GitHub Pages repository.
 
 This repository powers the official website for **FrostByte StreamTeam**, a FiveM/GTARP streaming crew.
 
-- Live site: [https://tfst.github.io/](https://tfst.github.io/)
-- Raffle page: [https://tfst.github.io/raffle/](https://tfst.github.io/raffle/)
+- Live site: [https://ctfst.github.io/](https://ctfst.github.io/)
+- Raffle page: [https://ctfst.github.io/raffle/](https://ctfst.github.io/raffle/)
 
 Topics: FiveM, Frostbyte, GTARP, TeamFST
